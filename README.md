@@ -36,3 +36,6 @@ Some of the main features:
 
 •	Advanced thermal management system
 
+![GOFUuGBbQAESqu3 (1)](https://github.com/RobertLorincz/Orbiter-Toolboards/assets/155807093/dade04c1-24d7-42c6-b53e-0af00b4c9632)
+![O2 Toolboard](https://github.com/RobertLorincz/Orbiter-Toolboards/assets/155807093/bae87aaa-77b8-4d3f-bb00-9480982e8eb0)
+
