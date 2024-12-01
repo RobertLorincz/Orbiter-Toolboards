@@ -1,1 +1,9 @@
+Changes v2.2.5
 
+- Included CANCE macro for user using the sensor macros instead of their own macros
+- Pausing printer due to runnout detection increases printer timeout to 3600s - 1h (configurable by pause_timeout), timeout set back to default 10m minfter print resume.
+- improved temperature restore behavior
+- Filament automatic unload after runnout can be disabled by variable disable_runout_unload.
+- corrected some minor bugs and spelling
+- messages sent to console shows SO3: prefix
+- correcte RGB led incorrect color status for some failure cases
