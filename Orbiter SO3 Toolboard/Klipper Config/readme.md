@@ -1,3 +1,7 @@
+Changes v2.2.6
+- print cancel restores the printer idle timer to 10 min
+
+
 Changes v2.2.5
 
 - Included CANCEL macro for user using the sensor macros instead of their own macros
