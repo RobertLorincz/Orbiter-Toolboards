@@ -8,13 +8,13 @@ We are hobbits, professionals and let’s face it, we do mistakes, and when the 
 
 Some of the main features:
 
-•	Optimized for Orbiter v2 and SO3 shape and features including orbiter sensor
+•	Optimized for Orbiter v2, v2.5 and SO3 shape and features including orbiter sensor
 
-•	STM32F042 microcontroller running on 48MHz
+•	STM32F042 / STM32F072 microcontroller running on 48MHz
 
 •	Automotive USB communication with Raspberry PI
 
-•	Onboard LIS2DW12 accelerometer
+•	Onboard LIS2DW12 /ADXL345 accelerometer
 
 •	TMC2209 extruder stepper driver
 
