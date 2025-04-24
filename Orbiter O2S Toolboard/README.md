@@ -1,18 +1,18 @@
-This is the second rewised version of the Orbiter O2 toolboard.
+This is the second revised version of the Orbiter O2 toolboard.
 
 Some of the main features:
 
-•	Optimized for Orbiter v2, v2.5 shape and features including orbiter sensor
+•	Optimized for Orbiter v2, v2.5 shape and features, including orbiter sensor
 
-•	STM32F072 microcontroller running on 48MHz - ful klipper support with automatic update possibility
+•	STM32F072 microcontroller running on 48MHz - full klipper support with automatic update possibility
 
 •	Automotive USB communication with Raspberry PI
 
-•	One auxiliary USB connector for bed scanner, nozzle camera or other inteligend USB connected accessory
+•	One auxiliary USB connector for bed scanner, nozzle camera, or other inteligent USB connected accessory
 
 •	Onboard ADXL345 accelerometer
 
-•	TMC2240 extruder stepper driver - for a better thermal behavior
+•	TMC2240 extruder stepper driver - for better thermal behavior
 
 •	Direct connection to Orbiter v2 sensor
 
